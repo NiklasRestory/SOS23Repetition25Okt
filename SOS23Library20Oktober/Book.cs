@@ -30,5 +30,6 @@ namespace SOS23Library20Oktober
         {
             return BookCount;
         }
+        // I don't wanna do a conflict.
     }
 }
